@@ -1,0 +1,20 @@
+#button{
+  padding: 15px;
+  border-radius: 5px;
+  border: none;
+  background:black;
+  color: white;
+  font-family: cascadia-code;
+  font-size: 18px;
+}
+#button:hover{
+  background: tomato;
+  transition: 1s;
+}
+
+#box{
+  font-size: 30px;
+  color:rgb(44, 34, 34);
+  text-transform: uppercase;
+  font-family: cascadia-font;
+}
