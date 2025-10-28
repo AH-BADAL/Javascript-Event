@@ -39,5 +39,13 @@ document.getElementById('make-tomato').addEventListener('click', function () {
   document.body.style.background = 'tomato';
 });
   
+document.getElementById('make-skyblue').addEventListener('click', function(){
+  document.body.style.background = 'skyblue';
+});
 
 
+
+document.getElementById('make-aqua').addEventListener('click', function () {
+  document.body.style.background = 'aqua';
+  
+});
